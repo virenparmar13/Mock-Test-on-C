@@ -1,2 +1,2 @@
 # Mock-Test-on-C
-#Mock test created using C
+the questions and the answer are to updated in the text file
